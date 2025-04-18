@@ -1,4 +1,4 @@
-# Dokumentasi Proyek Klasifikasi Gambar Kucing dan Anjing
+# Proyek Klasifikasi Gambar Kucing dan Anjing
 
 ## Deskripsi Proyek
 
