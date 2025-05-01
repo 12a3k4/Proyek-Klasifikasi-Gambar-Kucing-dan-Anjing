@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Finalssion Submission dari course Belajar Pengembangan Machine Learning (Dicoding).
+Final Submission dari course Belajar Pengembangan Machine Learning (Dicoding).
 
 Dibuat dengan tujuan untuk melengkapi Learning Objective dari "Laskar AI 2025".
 
